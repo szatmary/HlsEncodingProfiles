@@ -1,3 +1,4 @@
+Manufacturer,Category,Device,Video Width,Video Height,Video Bitrate,Video Samplerate,AVC Profile,AVC Constraint,AVC Level,AAC Profile,Audio Bitrate,Audio Samplerate
 Apple,phone,iPhone (1st generation),640,480,1500000,30,66,64,,2,160000,48000
 Apple,phone,iPhone (1st generation),320,240,768000,30,66,,133,2,160000,48000
 Apple,phone,iPhone 3g,640,480,2500000,30,66,,30,2,160000,48000
