@@ -1,0 +1,25 @@
+Apple,phone,iPhone (1st generation),640,480,1500000,30,66,64,,2,160000,48000
+Apple,phone,iPhone (1st generation),320,240,768000,30,66,,133,2,160000,48000
+Apple,phone,iPhone 3g,640,480,2500000,30,66,,30,2,160000,48000
+Apple,phone,iPhone 3gs,640,480,2500000,30,66,,30,2,160000,48000
+Apple,phone,iPhone 4,1280,720,,30,77,,31,2,160000,48000
+Apple,phone,iPhone 4s,1920,1080,,30,100,,41,2,160000,48000
+Apple,phone,iPhone 5,1920,1080,,30,100,,41,2,160000,48000
+Apple,handheld,iPod Touch (1st generation),640,480,1500000,30,66,64,,2,160000,48000
+Apple,handheld,iPod Touch (1st generation),320,240,768000,30,66,,13,2,160000,48000
+Apple,handheld,iPod Touch (2nd generation),640,480,1500000,30,66,64,,2,160000,48000
+Apple,handheld,iPod Touch (2nd generation),320,240,768000,30,66,,13,2,160000,48000
+Apple,handheld,iPod Touch (3rd generation),640,480,1500000,30,66,64,,2,160000,48000
+Apple,handheld,iPod Touch (3rd generation),320,240,768000,30,66,,13,2,160000,48000
+Apple,handheld,iPod Touch (4th generation),1280,720,,30,77,,31,2,160000,48000
+Apple,handheld,iPod Touch (5th generation),1280,720,,30,77,,31,2,160000,48000
+Apple,tablet,iPad (1st generation),1280,720,,30,77,,31,2,160000,48000
+Apple,tablet,iPad 2,1280,720,,30,77,,31,2,160000,48000
+Apple,tablet,iPad (3rd generation),1920,1080,,30,100,,41,2,160000,48000
+Apple,tablet,iPad (4th generation),1920,1080,,30,100,,41,2,160000,48000
+Apple,tablet,iPad Mini,1920,1080,,30,100,,41,2,160000,48000
+Apple,STB,Apple TV (1st generation),1280,720,5000000,24,77,8,,2,160000,48000
+Apple,STB,Apple TV (1st generation),960,540,5000000,30,77,8,,2,160000,48000
+Apple,STB,Apple TV (2nd generation),1280,720,,30,77,,31,2,160000,48000
+Apple,STB,Apple TV (3rd generation),1920,1080,,30,66,,30,2,160000,48000
+Apple,STB,Apple TV (3rd generation),1920,1080,,30,77,,40,2,160000,48000
